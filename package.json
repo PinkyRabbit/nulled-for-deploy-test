@@ -1,0 +1,16 @@
+{
+  "name": "nulled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Mikita Melnikau<usesa@yandex.com>",
+  "license": "ISC",
+  "dependencies": {
+    "finalhandler": "^1.1.2"
+  }
+}
